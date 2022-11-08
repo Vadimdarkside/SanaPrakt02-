@@ -14,3 +14,6 @@
 - [x] GitHub
 - [ ] GitLab
 - [ ] Bitbucket
+
+
+Виконав: Бондар Вадим
